@@ -19,7 +19,7 @@ allprojects {
   ```gradle
   
   dependencies {
-	        implementation 'com.github.Foysalofficial:UpdatedCircleImageView:Tag'
+	        implementation 'com.github.Foysalofficial:UpdatedCircleImageView:6.1.4'
 	}
   
   ```
