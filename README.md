@@ -1,9 +1,8 @@
 # UpdatedCircleImageView
 simple Updated Circle ImageView
 
-> How to
-To get a Git project into your build:
-Step 1. Add the JitPack repository to your build file
+# How to To get a Git project into your build:
+> Step 1. Add the JitPack repository to your build file
 
 ```gradle
 allprojects {
